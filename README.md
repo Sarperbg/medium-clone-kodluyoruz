@@ -1,2 +1,3 @@
-# medium-clone-kodluyoruz
-kodluyoruz FrontEnd patika bootstrap medium klon çalışması
+# Bootstap kullanarak medium klon çalışması 
+
+![Medium](assets/mediumklon.png)
